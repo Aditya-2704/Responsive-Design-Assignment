@@ -1,0 +1,16 @@
+.jumbotron{
+	background-color: #ac43cc;
+	width:100%;
+	padding:30px;
+}
+.row .col-sm-6{
+	padding-top:50px;
+	padding-bottom: 50px;
+}
+.footer{
+	background-color:#edb3ff;
+	padding:20px;
+}
+.Leadership{
+	padding-bottom:50px; 
+}
